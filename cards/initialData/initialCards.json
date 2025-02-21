@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Taylor Swift Fan Club",
+        "subtitle": "Celebrating the Magic of Taylor",
+        "description": "Join us to celebrate the music, achievements, and journey of Taylor Swift. Stay updated with news, events, and exclusive content.",
+        "phone": "052-123-4567",
+        "email": "swifties@taylornation.com",
+        "address": {
+            "street": "13 Enchanted Road",
+            "city": "Nashville",
+            "zip": 37201,
+            "country": "USA",
+            "houseNumber": "13"
+        },
+        "bizNumber": 987654,
+        "userId": "6a7b8c94de05127ca0123456"
+    },
+    {
+        "title": "Marvel Superhero Club",
+        "subtitle": "For Fans of the Marvel Universe",
+        "description": "Dive into the world of Marvel superheroes! From comics to movies, we bring together fans to discuss, celebrate, and geek out over Marvel’s greatest heroes.",
+        "phone": "054-987-6543",
+        "email": "fans@marvelunite.com",
+        "address": {
+            "street": "42 Stark Tower Ave",
+            "city": "Los Angeles",
+            "zip": 90001,
+            "country": "USA",
+            "houseNumber": "42"
+        },
+        "bizNumber": 654321,
+        "userId": "6a7b8c94de05127ca0123456"
+    },
+    {
+        "title": "French Pastry Delights",
+        "subtitle": "Authentic French Bakery",
+        "description": "Indulge in the finest croissants, éclairs, and macarons. A taste of Paris in every bite!",
+        "phone": "052-789-1234",
+        "email": "info@frenchpastry.com",
+        "address": {
+            "street": "Rue de la Pâtisserie",
+            "city": "Paris",
+            "zip": 75001,
+            "country": "France",
+            "houseNumber": "8"
+        },
+        "bizNumber": 321987,
+        "userId": "6a7b8c94de05127ca0123456"
+    }
+]

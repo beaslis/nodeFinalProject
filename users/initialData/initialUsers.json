@@ -1,0 +1,74 @@
+[
+    {
+        "name": {
+            "first": "Liam",
+            "middle": "J.",
+            "last": "Anderson"
+        },
+        "image": {
+            "url": "https://randomuser.me/api/portraits/men/45.jpg",
+            "alt": "Profile picture of Liam Anderson"
+        },
+        "isBusiness": true,
+        "isAdmin": true,
+        "email": "liam.anderson@example.com",
+        "password": "SecurePass!789",
+        "address": {
+            "street": "42 Riverbank Avenue",
+            "city": "Tel Aviv",
+            "state": "Central District",
+            "zip": 64200,
+            "country": "Israel",
+            "houseNumber": "42B"
+        },
+        "phone": "0529876543"
+    },
+    {
+        "name": {
+            "first": "Sophia",
+            "middle": "M.",
+            "last": "Harrison"
+        },
+        "image": {
+            "url": "https://randomuser.me/api/portraits/women/32.jpg",
+            "alt": "Profile picture of Sophia Harrison"
+        },
+        "isBusiness": true,
+        "isAdmin": false,
+        "email": "sophia.harrison@businessmail.com",
+        "password": "BizPass!456",
+        "address": {
+            "street": "18 Ocean View Drive",
+            "city": "Haifa",
+            "state": "Haifa District",
+            "zip": 32000,
+            "country": "Israel",
+            "houseNumber": "18"
+        },
+        "phone": "0531234567"
+    },
+    {
+        "name": {
+            "first": "Ethan",
+            "middle": "K.",
+            "last": "Ramirez"
+        },
+        "image": {
+            "url": "https://randomuser.me/api/portraits/men/67.jpg",
+            "alt": "Profile picture of Ethan Ramirez"
+        },
+        "isBusiness": false,
+        "isAdmin": false,
+        "email": "ethan.ramirez@example.com",
+        "password": "EthanSecure!123",
+        "address": {
+            "street": "90 Sunset Boulevard",
+            "city": "Jerusalem",
+            "state": "Jerusalem District",
+            "zip": 91000,
+            "country": "Israel",
+            "houseNumber": "90A"
+        },
+        "phone": "0547654321"
+    }
+]
