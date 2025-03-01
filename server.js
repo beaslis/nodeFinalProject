@@ -14,6 +14,9 @@ import { PORT } from './services/env.service.js';
 
 const app = express();
 
+//cors middleware - allow all
+app.use(cors());
+
 // Add middleware to parse JSON, maximum request body size is 5mb
 app.use(express.json({ limit: '5mb' }));
 
@@ -21,11 +24,9 @@ app.use(express.json({ limit: '5mb' }));
 (like console.log for HTTP requests) */
 app.use(morganLogger);
 
-//cors middleware - allow all
-app.use(cors());
-
 //add a static files middleware
 app.use(express.static('public'));
+
 
 // Add the router to the app
 app.use(router);

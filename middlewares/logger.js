@@ -30,7 +30,7 @@ if (!fs.existsSync(logsDir)) {
 };
 
 //create a write stream (in append mode)
-const accessLogStream = fs.createWriteStream(path.join(logsDir, `${getTodayDate()}.txt`), { flags: 'a', encoding: 'utf8', autoClose: true });
+const accessLogStream = fs.createWriteStream(path.join(logsDir, `${getTodayDate()}.txt`), { flags: 'a' });
 
 //console format with colors
 const consoleFormat = (tokens, req, res) => {
