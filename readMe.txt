@@ -16,8 +16,8 @@ This page includes a brief description of the available API endpoints for users 
 ## Full API Documentation
 For a detailed breakdown of the API functionality, including request methods, parameters, and responses, refer to the following documentation:
 
-Users API: https://documenter.getpostman.com/view/40123570/2sAYQXns3r
-Cards API: https://documenter.getpostman.com/view/40123570/2sAYQXpYTY#intro
+Users API: https://documenter.getpostman.com/view/40123418/2sAYdhLW9N
+Cards API: https://documenter.getpostman.com/view/40123418/2sAYdhLW9M
 These resources provide everything you need to understand and interact with the API.
 
 ## Features
@@ -40,7 +40,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Hanaady98/nodeFinalProject>
+   git clone <https://github.com/beaslis/nodeFinalProject>
    ```
 2. Install dependencies:
    ```bash
